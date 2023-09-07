@@ -1,4 +1,5 @@
-#Heat Flux Analysis
+# Heat Flux Analysis
+
 Hello there! Welcome to the Heat Flux Analysis project by Jose Manuel, an undergraduate student at Worcester Polytechnic Institute (WPI). This project was carried out during the Summer of 2023 as part of the EREE program at WPI, in collaboration with Professor Caceres.
 
 This project focuses on simulating the flux of heat in a square room section under various boundary conditions using the Heat Equation. To simulate a partial differential equation with no analytical solution, we have employed MATLAB, implementing a vertex approach based on the finite element method (FEM) for space discretization and the finite differences method for time discretization. The vectorization of matrices and the efficient methodology discussed in the analysis PDF make this simulation both mathematically reliable and efficient.
