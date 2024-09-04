@@ -29,3 +29,6 @@ To run the simulation, follow these steps:
 For more detailed information about the project, the mathematical methodologies used, and the results obtained, please refer to the analysis PDF and the research paper included in this repository.
 
 If you have any questions or need further assistance, feel free to contact me at jjimenez1@wpi.edu
+
+
+![Main Screen](poster.png)
