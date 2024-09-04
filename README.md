@@ -1,4 +1,4 @@
-# Heat Flux Analysis
+# Heat Flux Analysis using FEM and FDM
 
 Welcome to the **Heat Flux Analysis** repository, a project developed by **Jose Manuel**, an undergraduate student at Worcester Polytechnic Institute (WPI). This work was completed during the Summer of 2023 as part of the **EREE program** at WPI, in collaboration with **Professor Caceres**.
 
